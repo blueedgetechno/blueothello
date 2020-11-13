@@ -1,0 +1,19 @@
+{
+  "name": "blueothello",
+  "main": "./lib/blueothello",
+  "version": "0.0.0",
+  "description": "Othello (aka reversi) game in atom",
+  "keywords": ["othello","reversi","game","fun","board"],
+  "activationCommands": {
+    "atom-workspace": "blueothello:toggle"
+  },
+  "repository": "https://github.com/atom/blueothello",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle blueothello",
+        "command": "blueothello:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "blueothello",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "blueothello:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
