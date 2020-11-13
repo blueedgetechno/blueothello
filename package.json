@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "blueothello:toggle"
   },
-  "repository": "https://github.com/atom/blueothello",
+  "repository": "https://github.com/blueedgetechno/blueothello",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
